@@ -1,0 +1,4 @@
+interface:
+  display_name: "黄金三章生成器"
+  short_description: "设计或撰写高点击、高留存的前三章。"
+  default_prompt: "为这个小说设定设计黄金三章，要求第一章压迫和金手指出现，第二章验证能力，第三章第一次爽点打脸，并给出每章钩子。"

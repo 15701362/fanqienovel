@@ -1,0 +1,4 @@
+interface:
+  display_name: "读者上瘾控制器"
+  short_description: "设计追更欲望、情绪依赖和爽感期待机制。"
+  default_prompt: "根据章节概要设计读者上瘾机制，强化延迟满足、压抑释放、悬念循环、身份曝光、危机推进、女角色情绪和财富刺激。"

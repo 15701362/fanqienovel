@@ -1,0 +1,4 @@
+interface:
+  display_name: "章节标题管理器"
+  short_description: "生成和检测高点击、不重复的章节标题。"
+  default_prompt: "根据章节概要和已用标题，生成高点击章节标题，要求有情绪、有冲突、有事件、有爽点、有悬念，并检测重复和相似风险。"

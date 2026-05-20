@@ -1,0 +1,4 @@
+interface:
+  display_name: "爽点增强器"
+  short_description: "增强剧情的打脸、反转、财富刺激和情绪释放。"
+  default_prompt: "优化这段剧情的爽点密度，增加冲突、压迫、反转、打脸、旁观者震惊和结尾钩子。"

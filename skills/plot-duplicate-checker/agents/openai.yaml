@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧情重复检测器"
+  short_description: "检测最近章节的套路、爽点和打脸重复。"
+  default_prompt: "分析最近章节是否存在剧情重复、爽点重复、情绪重复、打脸重复或装逼循环，并给出切换剧情线和降低审美疲劳的建议。"

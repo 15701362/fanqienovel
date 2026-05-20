@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说规则控制器"
+  short_description: "总质检章节字数、节奏、爽点、钩子和 AI 味。"
+  default_prompt: "检查这章是否符合番茄小说生产规则，重点检测字数、情绪密度、爽点密度、冲突、钩子、标题、段落和 AI 味，并输出结构化问题与修改建议。"

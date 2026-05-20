@@ -1,0 +1,4 @@
+interface:
+  display_name: "评论互动诱导器"
+  short_description: "设计读者站队、争议点和评论互动触发。"
+  default_prompt: "为这段剧情设计评论互动点，制造合理站队、争议和情绪讨论，但不能让角色降智或破坏剧情逻辑。"

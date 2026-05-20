@@ -1,0 +1,4 @@
+interface:
+  display_name: "情绪曲线分析器"
+  short_description: "分析章节情绪波动、爽感密度和高潮位置。"
+  default_prompt: "分析这章的情绪曲线，检查是否平淡、爽点是否过晚、压抑和释放是否足够，并给出情绪节奏优化建议。"

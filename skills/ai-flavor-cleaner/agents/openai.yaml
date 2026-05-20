@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI味清洗器"
+  short_description: "清理套话、重复句式、机械情绪和口水文。"
+  default_prompt: "清洗这段章节正文的 AI 味，减少套话、重复句式、机械情绪、过度解释和模板化表达，让它更像真人番茄网文作者。"

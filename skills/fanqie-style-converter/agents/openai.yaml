@@ -1,0 +1,4 @@
+interface:
+  display_name: "番茄文风转换器"
+  short_description: "把普通或 AI 味文本改成番茄爽文风格。"
+  default_prompt: "把这段文字改写成番茄小说风格，要求短句、高对白、强情绪、强冲突、节奏快，并去掉 AI 味。"

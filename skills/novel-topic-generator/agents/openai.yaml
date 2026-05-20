@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款选题生成器"
+  short_description: "生成符合番茄流量逻辑的商业网文选题。"
+  default_prompt: "根据我的方向、目标读者和字数要求，生成多个番茄小说选题，并给出书名、标签、核心爽点、主冲突、长篇方向和推荐指数。"

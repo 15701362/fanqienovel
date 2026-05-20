@@ -1,0 +1,4 @@
+interface:
+  display_name: "留存优化器"
+  short_description: "优化读完率、下一章点击率和追更率。"
+  default_prompt: "分析这章的留存风险，重点检查开头吸引力、中段疲劳、爽点密度、钩子质量和断章质量，并给出提升读完率和追更率的建议。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说记忆库"
+  short_description: "维护角色、人设、伏笔、时间线和长篇一致性。"
+  default_prompt: "根据已有章节和设定，整理或更新小说记忆库，记录角色、势力、伏笔、时间线、能力系统、关系变化和下章约束。"

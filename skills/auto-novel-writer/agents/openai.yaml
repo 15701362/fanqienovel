@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动续写器"
+  short_description: "按记忆库和当前目标续写番茄风格章节。"
+  default_prompt: "根据上一章、角色状态、当前卷目标和记忆库续写下一章，保持人设、节奏、爽点密度、冲突推进和结尾钩子。"

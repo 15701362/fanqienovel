@@ -1,0 +1,4 @@
+interface:
+  display_name: "断章钩子生成器"
+  short_description: "生成提升追更率的章节结尾钩子。"
+  default_prompt: "为这一章设计多个断章钩子，包含危机、反转、身份曝光或情绪冲击，并说明推荐使用哪一个。"

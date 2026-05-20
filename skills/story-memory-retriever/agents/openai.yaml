@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧情记忆检索器"
+  short_description: "从冷库检索相关记忆并注入热库。"
+  default_prompt: "根据当前剧情目标，从冷库中检索相关人物、伏笔、势力、时间线和爽点历史，整理成可注入热库的精简记忆。"

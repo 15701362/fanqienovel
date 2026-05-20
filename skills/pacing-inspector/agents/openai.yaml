@@ -1,0 +1,4 @@
+interface:
+  display_name: "节奏检查器"
+  short_description: "检查章节节奏、爽点密度和中后期崩盘风险。"
+  default_prompt: "检查这些章节的节奏问题，指出连续铺垫、爽点不足、剧情停滞、无冲突或钩子弱的问题，并给出修复建议。"

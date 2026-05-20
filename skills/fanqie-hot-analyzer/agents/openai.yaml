@@ -1,0 +1,4 @@
+interface:
+  display_name: "番茄爆款分析师"
+  short_description: "分析番茄网文的题材、爽点、留存和爆款公式。"
+  default_prompt: "分析这本小说或章节样稿的番茄爆款潜力，输出题材、核心爽点、读者群、黄金开局、留存机制、问题和优化建议。"
